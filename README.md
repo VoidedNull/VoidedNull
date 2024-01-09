@@ -8,3 +8,4 @@ I'm someone who loves to learn new things.
 - HTML
 - CSS
 - JavaScript
+- Python
