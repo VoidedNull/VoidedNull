@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/VoidedNull/VoidedNull/main/Assets/20240109_1156561.gif)
+![Header image](20240109_1156561.gif)
 
 I'm someone who loves to learn new things.
 
